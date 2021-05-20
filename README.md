@@ -1,4 +1,4 @@
-## E ai! Eu sou o Victor Matheus. Seja bem vindo!
+## E ai! Eu sou o Victor Matheus. Bem-vindo!
 <div>
   <a href="https://github.com/Victor-Matheus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Matheus&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
